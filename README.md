@@ -1,6 +1,5 @@
 ## Understanding Map in Javascript 
 
-
 JavaScript’s map function is extremely useful, but it can also be a bit confusing when you’re just starting out with programming.
 
 
